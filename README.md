@@ -14,6 +14,4 @@ AI Based Exam portal
 - Install requirements : pip install requirement.py
 - Run the command : ./server.sh 
 - Your application run on http://[]:8000
-- 
-
 
